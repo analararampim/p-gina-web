@@ -2,6 +2,14 @@ body {
     background-color: rgb(127, 245, 247);
     font-family: Bai Jamjuree;
 }
+#container {
+    display:flex ;
+}
+.cartao {
+    margin: 1rem 1rem;
+    background-color: aqua;
+    height: 20rem;
+}
 footer {
     background-color:rgb(247, 100, 247);
     color: rgb(2, 17, 22);
