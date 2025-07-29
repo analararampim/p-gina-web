@@ -1,8 +1,8 @@
 body {
-    background-color: bisque;
+    background-color: rgb(127, 245, 247);
 }
 footer {
-    background-color: black;
+    background-color:black;
     color: white;
     bottom:0;
     position:fixed;
